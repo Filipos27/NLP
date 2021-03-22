@@ -16,3 +16,5 @@ In TfidfVectorizer we consider overall document weightage of a word. It helps us
 |DecisionTree          |     79.9%           |      75.76 %       |               
 |Naive Bayes           |     64.53%          |      72.03 %       |  
 |LogisticRegression    |     87.03%          |      86.03 %       |  
+
+In inbalanced dataset we used CountVectorizer and in balanced dataset we used TfidfVectorizer.
